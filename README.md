@@ -1,1 +1,0 @@
-# Python_hw_6
